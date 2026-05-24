@@ -1,0 +1,74 @@
+aid: tae-technologies
+name: TAE Technologies
+description: >-
+  TAE Technologies (formerly Tri Alpha Energy) is a Foothill Ranch, California
+  fusion energy company founded in 1998, pursuing commercial fusion power using
+  aneutronic hydrogen-boron (p-B11) fuel in an advanced beam-driven
+  field-reversed configuration (FRC). Because the p-B11 reaction is aneutronic,
+  TAE's approach produces virtually no neutron flux or on-site radioactive
+  waste compared with conventional deuterium-tritium concepts. The company has
+  built a progression of plasma machines — Sewer Pipe, CBFR-SPS, C-2, C-2U,
+  and C-2W ("Norman") — and is constructing Copernicus in Irvine, California
+  to demonstrate net energy gain, with Da Vinci planned as the grid-connected
+  power-plant demonstration. TAE has raised more than USD 1.2 billion from
+  investors including Google, Chevron, NEA, Goldman Sachs, Vulcan, Venrock,
+  Wellcome Trust, and the Kuwait Investment Authority, and runs research
+  collaborations with Japan's National Institute for Fusion Science (NIFS).
+  Two operating subsidiaries commercialize spin-off technology: TAE Life
+  Sciences develops accelerator-based Boron Neutron Capture Therapy (BNCT)
+  systems for cancer treatment, and TAE Power Solutions builds modular,
+  software-controlled power-management systems for e-mobility and battery
+  applications. TAE is a private hardware and deep-science company; it does
+  not publish a developer API, SDK, OpenAPI specification, or public
+  open-source code repository.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Fusion Energy
+  - Aneutronic Fusion
+  - Hydrogen Boron
+  - p-B11
+  - Field-Reversed Configuration
+  - Plasma Physics
+  - Clean Energy
+  - Baseload Power
+  - BNCT
+  - Cancer Therapy
+  - Power Electronics
+  - E-Mobility
+  - Battery Management
+  - Deep Tech
+  - Hardware
+url: https://raw.githubusercontent.com/api-evangelist/tae-technologies/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://tae.com
+  - type: AboutUs
+    url: https://tae.com/about-us/
+  - type: FusionPower
+    url: https://tae.com/fusion-power-page/
+  - type: LifeSciences
+    url: https://taelifesciences.com
+  - type: PowerSolutions
+    url: https://taepowersolutions.com
+  - type: News
+    url: https://tae.com/news/
+  - type: Careers
+    url: https://tae.com/careers/
+  - type: Contact
+    url: https://tae.com/contact/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/tae-technologies
+  - type: Twitter
+    url: https://twitter.com/TAETechnologies
+  - type: YouTube
+    url: https://www.youtube.com/@TAETechnologies
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
