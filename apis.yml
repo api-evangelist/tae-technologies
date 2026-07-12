@@ -47,6 +47,8 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/tae-technologies-domain-security.yml
   - type: Website
     url: https://tae.com
   - type: AboutUs
@@ -69,6 +71,8 @@ common:
     url: https://twitter.com/TAETechnologies
   - type: YouTube
     url: https://www.youtube.com/@TAETechnologies
+  - url: https://tae.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
