@@ -1,4 +1,4 @@
-# tae-technologies
+# TAE Technologies
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TAE Technologies — aneutronic p-B11 fusion energy (Norman, Copernicus, Da Vinci); TAE Life Sciences (BNCT) and TAE Power Solutions
+TAE Technologies (formerly Tri Alpha Energy) is a Foothill Ranch, California fusion energy company founded in 1998, pursuing commercial fusion power using aneutronic hydrogen-boron (p-B11) fuel in an advanced beam-driven field-reversed configuration (FRC). Because the p-B11 reaction is aneutronic, TAE's approach produces virtually no neutron flux or on-site radioactive waste compared with conventional deuterium-tritium concepts. The company has built a progression of plasma machines — Sewer Pipe, CBFR-SPS, C-2, C-2U, and C-2W ("Norman") — and is constructing Copernicus in Irvine, California to demonstrate net energy gain, with Da Vinci planned as the grid-connected power-plant demonstration. TAE has raised more than USD 1.2 billion from investors including Google, Chevron, NEA, Goldman Sachs, Vulcan, Venrock, Wellcome Trust, and the Kuwait Investment Authority, and runs research collaborations with Japan's National Institute for Fusion Science (NIFS). Two operating subsidiaries commercialize spin-off technology: TAE Life Sciences develops accelerator-based Boron Neutron Capture Therapy (BNCT) systems for cancer treatment, and TAE Power Solutions builds modular, software-controlled power-management systems for e-mobility and battery applications. TAE is a private hardware and deep-science company; it does not publish a developer API, SDK, OpenAPI specification, or public open-source code repository.
+
+**Areas:** Fusion Energy · Aneutronic Fusion · Hydrogen Boron · p-B11 · Field-Reversed Configuration · Plasma Physics · Clean Energy · Baseload Power · BNCT · Cancer Therapy · Power Electronics · E-Mobility
+
+## TAE Technologies on APIs.io
+
+Everything profiled for TAE Technologies is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/tae-technologies/](https://apis.io/providers/tae-technologies/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Tae Technologies Domain Security](https://apis.io/security/tae-technologies/tae-technologies-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tae.com)
+- [Blog](https://tae.com/feed/)
+
+## API Evangelist rating
+
+**Kin Score 4.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.9** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/tae-technologies/](https://apis.io/providers/tae-technologies/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for TAE Technologies: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/tae-technologies/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
